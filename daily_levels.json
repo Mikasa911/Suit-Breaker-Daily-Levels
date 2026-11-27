@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "startDate": "",
+  "startDate": "2026-12-10",
   "groups": [
     {"weekday": "monday", "minRating": 5.2, "maxRating": 5.8, "levels": [
       {"id":"MON-01","rating":5.2,"rows":["################# ","#...~.....~...#R##","#....#.R..#.KR~..#","#~#.#.....#...#R.#","###.###########.##","#.R~#...#..#.##..#","#.R.###.#.....#..#","#PR.#...#....C#..#","#.###.###.#####~##","#...#.....#......#","#...#..R#.~.R.#.##","##################"],"solution":"UURLDDRULURDRUUUULURRRRDRRDRULURRRRDRRRDDDDDDDLLDLLLLUUURRRR","par":60},
